@@ -3,11 +3,11 @@ This is the backend for the Data Visualization Dashboard. It is built using Node
 
 Technologies Used
 
-Node.js
-Express.js
-MongoDB
-Mongoose
-dotenv
+Node.js,
+Express.js,
+MongoDB,
+Mongoose,
+dotenv,
 CORS
 
 Project Structure
@@ -29,16 +29,21 @@ backend/
 Setup Instructions
 
 Clone the Repository
+
 git clone https://github.com/Priyam280399/Data_Visualization_Backend.git
+
 cd Data_Visualization_Backend
 
 Install Dependencies
+
 npm install
 
 Start the Server
+
 npm start
 
  Features
+ 
 Read JSON data from MongoDB
 
 Supports filtering by:
